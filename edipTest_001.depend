@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1389098548 source:/home/satan/Programming/APIs/gnublin.cpp
+	"gnublin.h"
+
+1389098548 /home/satan/Programming/APIs/gnublin.h
+	<cstring>
+	<ctime>
+	<fcntl.h>
+	<fstream>
+	<iostream>
+	<linux/i2c.h>
+	<linux/i2c-dev.h>
+	<linux/spi/spidev.h>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<sys/ioctl.h>
+	<time.h>
+	<unistd.h>
+	<math.h>
+	<string>
+	<vector>
+	<string.h>
+	<assert.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/unistd.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<errno.h>
+	<iostream>
+
+1393001668 source:/home/satan/Arbeitsfläche/copy_dir_Gnublin/root/edipspi/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	</home/satan/Programming/APIs/gnublin.h>
+
+1390501327 source:/home/satan/Arbeitsfläche/copy_dir_Gnublin/root/eDIPSPI/Temp/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdlib.h>
+	</home/satan/Programming/APIs/gnublin.h>
+
